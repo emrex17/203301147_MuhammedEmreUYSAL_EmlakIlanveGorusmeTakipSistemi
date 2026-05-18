@@ -70,10 +70,10 @@ Emlak ilanlarını yönetmek ve müşteri görüşmelerini takip etmek için gel
 
 ## Ekran Görüntüleri
 
-<!-- Ekran görüntülerini buraya ekleyin -->
-
 ![Giriş Ekranı](screenshots/login.png)
+![Kayıt Ekranı](screenshots/register.png)
 ![Ana Liste](screenshots/home.png)
+![İlan Ekleme Formu](screenshots/form.png)
 ![İlan Detay](screenshots/detail.png)
 
 ---
