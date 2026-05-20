@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'core/constants/app_constants.dart';
-import 'features/diagram/entity_screen.dart';
+import 'features/splash/splash_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
           ),
         ),
       ),
-      home: const EntityScreen(),
+      home: const SplashScreen(),
     );
   }
 }
